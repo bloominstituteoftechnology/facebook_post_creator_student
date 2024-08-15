@@ -1,4 +1,4 @@
-# Facebook Post Content Generator
+# Facebook Post Content Generator - Guided Project
 
 ## TLDR
 
